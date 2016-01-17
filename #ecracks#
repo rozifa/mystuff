@@ -1,0 +1,5 @@
+def cock(a):
+    penis = 4
+    return penis * a
+
+thing= cock(3) * 4 

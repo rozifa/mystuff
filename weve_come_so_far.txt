@@ -1,0 +1,52 @@
+Print
+	Prints following string or result to the terminal
+String
+	Text contained in double or single quotation marks. Literal translation. 
+	Can be formatted.
+#
+	Comments out code. It will be ignored by the interpreter and will not run or display when the script is run.
++-/
+	Standard operators for addition, subtraction, and division. Used to do simple arithmatic.
+=><
+	Used to check boolean values; greater than? less than? equal? Returns a boolean value of True or False. I.E) 3 = 4 -> False 
+= assignment
+	Used to assign values to variables
+%d %r %s %
+	"Formatters"; used to format values into strings. Simply insert one into the string in place of the value and then specify the value to be used as a replacement after the string is concluded with a % followed by the value.
+""" """
+	Block quotes. Used for very large strings. Like an MLA block quotation sort of.
+""
+	Double quotes used for most strings. Single quotes work as well. 
+\t
+	Tabs in a string
+\n
+	New lines a string, escapes the current line.
+\\
+	Puts a slash in.
+Raw.input()
+	Prompts the user for an input. The prompt "question" can be specified as an argument in the parenthesis. 
+From, import
+	Used to import a module from a package. I.E) From package import module
+Argv
+	A module used to "unpack" arguments of a script.
+Read( )
+	Reads the contents of the file.
+Open ( )
+	Opens the file.
+Close ( )
+	Closes the file.
+Write ( )
+	Writes to the file.
+Truncate ( )
+	Deletes content from the file.
+Len ( )
+	Byte length
+Modes for opening ("w")
+	Default mode is "r" which is read mode when the file is opened. Files can be opened in other modes such as write mode, "w", by specifying as the second argument in the open() function.
+Def functionname(args):
+	Defines the function name and its arguments followed by a colon and on a new set of indented lines what the function is to do. 
+Seek( )
+	Seeks a portion of the file. Moves the "cursor" to that location.
+Return
+	Specifies that the function should be returning something. Doesn't print the returned result/value only stores it. 
+

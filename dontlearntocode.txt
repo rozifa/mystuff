@@ -1,0 +1,9 @@
+It assumes that more code in the world is an inherently desirable thing. In my thirty year career as a programmer, I have found this … not to be the case. Should you learn to write code? No, I can't get behind that. You should be learning to write as little code as possible. Ideally none.
+
+It assumes that coding is the goal. Software developers tend to be software addicts who think their job is to write code. But it's not. Their job is to solve problems. Don't celebrate the creation of code, celebrate the creation of solutions. We have way too many coders addicted to doing just one more line of code already.
+
+It puts the method before the problem. Before you go rushing out to learn to code, figure out what your problem actually is. Do you even have a problem? Can you explain it to others in a way they can understand? Have you researched the problem, and its possible solutions, deeply? Does coding solve that problem? Are you sure?
+
+It assumes that adding naive, novice, not-even-sure-they-like-this-whole-programming-thing coders to the workforce is a net positive for the world. I guess that's true if you consider that one bad programmer can easily create two new jobs a year. And for that matter, most people who already call themselves programmers can't even code, so please pardon my skepticism of the sentiment that "everyone can learn to code".
+
+It implies that there's a thin, easily permeable membrane between learning to program and getting paid to program professionally. Just look at these new programmers who got offered jobs at an average salary of $79k/year after attending a mere two and a half month bootcamp! Maybe you too can teach yourself Perl in 24 hours! While I love that programming is an egalitarian field where degrees and certifications are irrelevant in the face of experience, you still gotta put in your ten thousand hours like the rest of us.

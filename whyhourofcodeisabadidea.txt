@@ -1,0 +1,37 @@
+More code isn't better
+
+Switches the focus from porblem sovling
+to writing code.
+	Code is used to solve problems. 
+	Can you explain it in a way that is
+	understadable. 
+		What is the problem?
+
+Adding novice "coders" to the workforce
+is assumed to be good. It isn't.
+
+Focus on salary
+	Learning a quick and easy skill to make money
+		This isn't true.
+			The hard part is identifying a problem and coming up with a logical solution. Code is just used as a tool to execute your plan. 
+
+The only reason we use code is because its efficent. 
+
+Counter Arguments Addressed 
+
+But doesn't it expose kids to code and generate an interest?
+
+	I would argue that the curiosity and method of thinking that causes one to 
+	explore and become self interested in coding is necassary to code properly.
+		Basically, if you were meant to code, you would've already figured it out on your own.
+
+Doesn't it teach them a tool that they can later use to solve problems?
+	
+	The tool is useless wihtout context. You don't understand how computers solve problems. And you don't understand how to solve problems in the first place. 
+
+	You need to understand how to approach problems.
+
+The first classes you take in computer science aren't about the syntax or "grammar" of coding, its conventions, or implementing it.
+They are about algorythms and data scturctures. 
+	They are about logic and problem solving
+	And they all depend on math and reasoning. 
