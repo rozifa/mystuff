@@ -1,0 +1,18 @@
+cocks = "meme"
+print cocks
+
+class mongoloid(object):
+    def __init__(self, fuck, cocks, ass):
+        self.fuck = fuck
+        self.ass = ass
+        self.cocks = cocks
+    def getfuck(self):
+        return self.fuck
+    def getcocks(self):
+        return self.cocks
+    def getass(self):
+        return self.ass
+
+nathan_bahr = mongoloid("bad", 1, "horrible")
+nates_fuck = nathan_bahr.getfuck()
+print nates_fuck
